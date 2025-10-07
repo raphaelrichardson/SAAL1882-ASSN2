@@ -1,2 +1,1 @@
-Hello there.
-this line should be reverted
+Hello there
